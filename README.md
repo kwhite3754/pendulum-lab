@@ -33,16 +33,25 @@ The equation of motion is converted into a first-order system and solved numeric
 - SciPy  
 - Matplotlib
 
-## Features
+## Visual Analysis 
 
-- Angle vs. time graph  
-- Kinetic energy vs. time  
-- Potential energy vs. time  
-- Total energy vs. time  
-- Exponential energy decay fitting  
-- Phase space visualization  
-- Pendulum animation  
-- MP4 simulation export
+<p align="center">
+    <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Pendulum%20with%20Wind%20and%20Air%20Resistance.png" hspace=10>
+    <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Kinetic%20Energy%20vs.%20Time.png" hspace=10>
+</p>
+<p align="center">
+  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Potential%20Energy%20vs.%20Time.png" hspace=10>
+  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Comparing%20Kinetic%20and%20Potential%20Energy.png" hspace=10>
+</p>
+<p align="center">
+  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Total%20Energy%20vs.%20Time.png" hspace=10>
+  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Energy%20Decay%20with%20Fitted%20Curve.png" hspace=10>
+</p>
+<p align="center">
+  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Comparing%20the%20Angular%20Velocity%20with%20Angles.png" hspace=10>
+<img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/pendulum.gif" hspace=10>
+
+</p>
 
 ## Results
 
