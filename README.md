@@ -43,23 +43,39 @@ The equation of motion is converted into a first-order system and solved numeric
 
 ## Visual Analysis 
 
-<p align="center">
-    <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Pendulum%20with%20Wind%20and%20Air%20Resistance.png" hspace=10>
-    <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Kinetic%20Energy%20vs.%20Time.png" hspace=10>
-</p>
-<p align="center">
-  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Potential%20Energy%20vs.%20Time.png" hspace=10>
-  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Comparing%20Kinetic%20and%20Potential%20Energy.png" hspace=10>
-</p>
-<p align="center">
-  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Total%20Energy%20vs.%20Time.png" hspace=10>
-  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Energy%20Decay%20with%20Fitted%20Curve.png" hspace=10>
-</p>
-<p align="center">
-  <img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/Comparing%20the%20Angular%20Velocity%20with%20Angles.png" hspace=10>
-<img width="370" height="290" src="https://github.com/kwhite3754/pendulum-lab/blob/main/outputs/pendulum.gif" hspace=10>
+### Pendulum Motion
+The pendulum oscillates with decreasing amplitude as energy is lost to air resistance and wind forcing.
 
+<p align="center">
+  <img width="500" src="outputs/Pendulum%20with%20Wind%20and%20Air%20Resistance.png">
 </p>
+
+### Energy Breakdown
+Kinetic and potential energy exchange periodically, both decreasing over time due to dissipation.
+
+<p align="center">
+  <img width="370" height="290" src="outputs/Kinetic%20Energy%20vs.%20Time.png" hspace=10>
+  <img width="370" height="290" src="outputs/Potential%20Energy%20vs.%20Time.png" hspace=10>
+</p>
+<p align="center">
+  <img width="370" height="290" src="outputs/Comparing%20Kinetic%20and%20Potential%20Energy.png" hspace=10>
+  <img width="370" height="290" src="outputs/Total%20Energy%20vs.%20Time.png" hspace=10>
+</p>
+
+### Decay Fit & Phase Space
+An exponential decay model closely fits the total energy loss. The phase portrait shows the system spiraling toward equilibrium.
+
+<p align="center">
+  <img width="370" height="290" src="outputs/Energy%20Decay%20with%20Fitted%20Curve.png" hspace=10>
+  <img width="370" height="290" src="outputs/Comparing%20the%20Angular%20Velocity%20with%20Angles.png" hspace=10>
+</p>
+
+### Pendulum Animation
+
+<p align="center">
+  <img width="400" src="outputs/pendulum.gif">
+</p>
+
 
 ## Results
 
