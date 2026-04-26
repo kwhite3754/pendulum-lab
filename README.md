@@ -8,12 +8,15 @@ PendulumLab is a Python-based simulation project that models the motion of a pen
 The project highlights numerical methods, mathematical modeling, data analysis, and scientific visualization using Python.
 
 <details>
-<summary> View Project Presentation</summary>
-<br>
-
-[View presentation (PDF)](https://github.com/kwhite3754/pendulum-lab/blob/main/presentations/Pendulum%20Simulation%20-%20Wind%20and%20Air%20Resistance.pdf)
-
+  <summary>
+    <img src="https://iili.io/B6iBP1e.md.png" alt="Icon" width="20"> View Project Presentation
+  </summary>
+  <br>
+  <img src="https://iili.io/B6iB6B9.md.png" alt="Icon" width="20"> 
+  <a href="https://github.com/kwhite3754/pendulum-lab/blob/main/presentations/Pendulum%20Simulation%20-%20Wind%20and%20Air%20Resistance.pdf">View presentation (PDF)</a>
 </details>
+
+
 
 ## Objectives
 
